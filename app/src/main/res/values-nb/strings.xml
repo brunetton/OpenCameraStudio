@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Open Camera</string> <!-- shouldn't be translated -->
+    <string name="app_name">Open Camera Studio</string> <!-- shouldn't be translated -->
     <string name="action_settings">Innstillinger</string>
     <string name="action_popup">Oppsprettsinnstillinger</string>
     <string name="intro_text">Trykk for å fokusere, og trykk på den blå kameraknappen for å ta bilder. For mere hjelp, trykk på Netthjelp i Innstillinger. Open Camera er fullstendig gratis. Hvis du liker appen, så kan du gjerne kjøpe min donasjonsapp 🙂 (Se lenken i Innstillinger, eller Netthjelp).\n\nPrivatlivsretningslinjer: Posisjonstillatelser er nødvendig for geotagging, men dette er deaktivert som standard. Hvis det er aktivert, vil posisjonen din bli kodet inn i de lagrede filene (og brukes kun til dette formålet).</string>
@@ -9,7 +9,7 @@
 
     <string name="on">På</string> <!-- whether a setting is turned on, e.g., "Auto-level: On" -->
     <string name="off">Av</string> <!-- whether a setting is turned off, e.g., "Auto-level: Off" -->
-    
+
     <string name="choose_save_location">Velg lagringsplasseringen</string>
     <string name="clear_folder_history">Slett mappehistorikken</string>
     <string name="clear_folder_history_question">Vil du slette mappehistorikken?</string>
@@ -58,7 +58,7 @@
     <string name="color_effect">Fargeffekt</string>
     <string name="scene_mode">Scenemodus</string>
     <string name="white_balance">Hvitbalanse</string>
-    
+
     <string name="angle">Vinkel</string>
     <string name="direction">Retning</string>
     <string name="failed_to_open_camera_1">KLARTE IKKE Å ÅPNE KAMERAET.</string>
@@ -69,10 +69,10 @@
     <string name="free_memory">ledig</string>
     <string name="screen_lock_message_1">[LÅST:</string>
     <string name="screen_lock_message_2">Sveip for å låse opp]</string>
-    
+
     <string name="failed_to_stamp">Klarte ikke å stemple infoen på bildet.</string>
     <string name="metres_abbreviation">m</string> <!-- symbol short for metres -->
-    
+
     <string name="preference_category_camera_effects">Kameraeffekter</string>
     <string name="preference_auto_stabilise">Auto-stabiliser</string>
     <string name="preference_auto_stabilise_summary">Bilder vil bli rotert slik at automatisk er stabilisert (Kun bilder) (Tregere å ta bilder, og kan mislykkes på enheter med for lite lagring).</string>
@@ -168,7 +168,7 @@
     <string name="preference_keep_display_on_summary">Hvis dette er valgt, vil skjermen ikke skru seg av mens Open Cameras hovedgrensesnitt er aktivt.</string>
     <string name="preference_max_brightness">Fremtving makslysstyrke</string>
     <string name="preference_max_brightness_summary">Tving skjermvisningen til å ha maks lysstyrke, og ikke enhetsstandarden.</string>
-    
+
     <string name="preference_category_camera_quality">Foto- og video-innstillinger</string>
     <string name="preference_screen_photo_settings">Fotoinnstillinger…</string>
     <string name="preference_screen_video_settings">Videoinnstillinger…</string>
@@ -223,7 +223,7 @@
     <string name="preference_record_audio_channels_summary">Velg mono eller stereo for opptak av lyd (Stereo støttes kun på noen enheter).</string>
     <string name="preference_video_flash">Blits under videoopptak</string>
     <string name="preference_video_flash_summary">Hvis dette er aktivert, vil blitsen skru seg av/på under videoopptak (Kan brukes til å se på avstand om kameraet fortsatt tar opp).</string>
-    
+
     <string name="preference_category_online">Diverse</string>
     <string name="preference_online_help">Netthjelp</string>
     <string name="preference_online_help_summary">Gå til Open Camera-nettsiden i nettleseren din.</string>
@@ -240,7 +240,7 @@
     <string name="about_available">Tilgjengelig</string>
     <string name="about_not_available">Ikke tilgjengelig</string>
     <string name="about_copy_to_clipboard">Kopier til utklippstavlen</string>
-    
+
     <string name="take_photo">Ta bilde</string>
     <string name="gallery">Galleri</string>
     <string name="exposure">Eksponering</string>
@@ -253,7 +253,7 @@
     <string name="switch_to_photo">Bytt til bildemodus</string>
     <string name="trash">Slett det seneste bildet</string>
     <string name="share">Del bilde</string>
-    
+
     <string name="parent_folder">Overmappe</string>
     <string name="new_folder">Ny mappe</string>
     <string name="cant_write_folder">Kan ikke skrive til denne mappen.</string>

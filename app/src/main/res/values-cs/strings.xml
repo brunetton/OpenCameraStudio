@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Open Camera</string>
+    <string name="app_name">Open Camera Studio</string>
     <string name="action_settings">Nastavení</string>
     <string name="action_popup">Vyskakovací nastavení</string>
     <string name="intro_text">Dotkněte se pro zaostření a zmáčkněte modré tlačítko pro pořízení fotografie. Pro nápovědu klikněte na Online nápověda v Nastavení. Open Camera je zcela zdarma. Pokud se vám aplikace líbí, zvažte koupi mé darovací aplikace :) (odkaz je v Nastavení nebo v Online nápovědě).\n\nZásady ochrany osobních údajů: Povolení k určení polohy je nutné pro geotagging, ale je implicitně vypnuto. Pokud jej povolíte, vaše poloha bude zakódována do uložených souborů (a použita pouze pro tyto účely).</string>
@@ -9,7 +9,7 @@
 
     <string name="on">Zap</string> <!-- whether a setting is turned on, e.g., "Auto-stabilise: On" -->
     <string name="off">Vyp</string> <!-- whether a setting is turned off, e.g., "Auto-stabilise: Off" -->
-    
+
     <string name="choose_save_location">Vybrat místo uložení:</string>
     <string name="clear_folder_history">Vymazat historii složek</string>
     <string name="clear_folder_history_question">Vymazat historii složek?</string>
@@ -57,7 +57,7 @@
     <string name="color_effect">Barevný efekt</string>
     <string name="scene_mode">Režim scény</string>
     <string name="white_balance">Vyvážení bílé</string>
-    
+
     <string name="angle">Úhel</string>
     <string name="direction">Směr</string>
     <string name="failed_to_open_camera_1">SELHALO OTEVŘENÍ FOTOAPARÁTU.</string>
@@ -68,10 +68,10 @@
     <string name="free_memory">Volno</string>
     <string name="screen_lock_message_1">[ZAMČENO:</string>
     <string name="screen_lock_message_2">Táhnutím odemkněte]</string>
-    
+
     <string name="failed_to_stamp">Selhalo přidání razítka na fotografii</string>
     <string name="metres_abbreviation">m</string> <!-- symbol short for metres -->
-    
+
     <string name="preference_category_camera_effects">Efekty</string>
     <string name="preference_auto_stabilise">Automatická stabilizace</string>
     <string name="preference_auto_stabilise_summary">Obrázky budou otočeny, aby byly zarovnány (pouze fotografie) (pomalejší a může selhat na zařízeních s příliš malou pamětí)</string>
@@ -160,7 +160,7 @@
     <string name="preference_keep_display_on_summary">Při zapnutí se nebude obrazovka vypínat pokud je uživatelské rozhraní aktivní</string>
     <string name="preference_max_brightness">Vynutit maximální jas</string>
     <string name="preference_max_brightness_summary">Vynutit maximální jas obrazovky místo implicitního nastavení zařízení</string>
-    
+
     <string name="preference_category_camera_quality">Foto a Video nastavení</string>
     <string name="preference_screen_photo_settings">Nastavení fotografování…</string>
     <string name="preference_screen_video_settings">Nastavení videa…</string>
@@ -209,7 +209,7 @@
     <string name="preference_record_audio_channels_summary">Nastavit mono nebo stereo pro nahrávání zvuku (stereo je podporováno jen na některých zařízeních)</string>
     <string name="preference_video_flash">Blikat při nahrávání videa</string>
     <string name="preference_video_flash_summary">Při zapnutí bude přisvětlovací dioda blikat při nahrávání videa (umožňuje z dálky určit, zda-li fotoaparát nahrává)</string>
-    
+
     <string name="preference_category_online">Různé</string>
     <string name="preference_online_help">Online nápověda</string>
     <string name="preference_donate">Přispět na podporu vývoje</string>
@@ -225,7 +225,7 @@
     <string name="about_available">Dostupné</string>
     <string name="about_not_available">Nedostupné</string>
     <string name="about_copy_to_clipboard">Kopírovat do schránky</string>
-    
+
     <string name="take_photo">Vyfotografovat</string>
     <string name="gallery">Galerie</string>
     <string name="exposure">Expozice</string>
@@ -234,7 +234,7 @@
     <string name="flash_mode">Režim blesku</string>
     <string name="trash">Smazat poslední fotografii</string>
     <string name="share">Sdílet fotografii</string>
-    
+
     <string name="parent_folder">Rodičovský adresář</string>
     <string name="new_folder">Nová složka</string>
     <string name="cant_write_folder">Do této složky nemohu zapisovat</string>
@@ -245,7 +245,7 @@
 
     <string name="saf_select_save_location">Vybrat místo pro uložení</string>
     <string name="saf_cancelled">Storage Access Framework zrušen</string>
-    
+
     <!-- the permission names such as Microphone should match what Android calls them in the App permission settings -->
     <string name="permission_record_audio_not_available">Oprávnění k přístupu k mikrofonu není dostupné</string>
     <string name="permission_location_not_available">Oprávnění k přístupu k poloze není dostupné</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Open Camera</string>
+    <string name="app_name">Open Camera Studio</string>
     <string name="action_settings">設定</string>
     <string name="action_popup">ポップアップ設定</string>
     <string name="intro_text">写真を撮るには青いカメラボタンを押してください。ヘルプの参照は「設定」から「オンラインヘルプ」をタップして行います。Open Cameraは無料ですが寄付を受け付けておりますのでご検討ください(リンクまたはオンラインヘルプから参照してください)。\n\nプライバシー方針:位置情報をジオタグのために使用します。位置情報の適用を初めは無効にしています。有効にすると位置情報が保存したファイルに埋め込まれます(位置情報はこのためだけに使用します)。</string>
@@ -9,7 +9,7 @@
 
     <string name="on">有効</string> <!-- whether a setting is turned on, e.g., "Auto-stabilise: On" -->
     <string name="off">無効</string> <!-- whether a setting is turned off, e.g., "Auto-stabilise: Off" -->
-    
+
     <string name="choose_save_location">保存場所を選択する:</string>
     <string name="clear_folder_history">フォルダの履歴を消去する</string>
     <string name="clear_folder_history_question">履歴を消去しますか？</string>
@@ -57,7 +57,7 @@
     <string name="color_effect">カラーエフェクト</string>
     <string name="scene_mode">シーンモード</string>
     <string name="white_balance">ホワイトバランス</string>
-    
+
     <string name="angle">角度</string>
     <string name="direction">方角</string>
     <string name="failed_to_open_camera_1">カメラが開けません。</string>
@@ -68,10 +68,10 @@
     <string name="free_memory">空き</string>
     <string name="screen_lock_message_1">[固定:</string>
     <string name="screen_lock_message_2">スワイプで解除]</string>
-    
+
     <string name="failed_to_stamp">情報の貼り付けに失敗しました</string>
     <string name="metres_abbreviation">m</string> <!-- symbol short for metres -->
-    
+
     <string name="preference_category_camera_effects">カメラエフェクト</string>
     <string name="preference_auto_stabilise">自動回転</string>
     <string name="preference_auto_stabilise_summary">水平を(写真のみ)自動的に修正します(撮影後の処理に時間がかかります。メモリの少ない機械では失敗する事があります)</string>
@@ -160,7 +160,7 @@
     <string name="preference_keep_display_on_summary">有効にすると使用している間は画面が消えなくなります</string>
     <string name="preference_max_brightness">明るさを常に最大にする</string>
     <string name="preference_max_brightness_summary">画面の明るさを常に最大にします</string>
-    
+
     <string name="preference_category_camera_quality">写真とビデオの設定…</string>
     <string name="preference_screen_photo_settings">写真の設定…</string>
     <string name="preference_screen_video_settings">ビデオの設定…</string>
@@ -209,7 +209,7 @@
     <string name="preference_record_audio_channels_summary">モノラルもしくはステレオを指定します (ステレオはサポートしている機械でのみ有効です)</string>
     <string name="preference_video_flash">録画中にフラッシュを使用する</string>
     <string name="preference_video_flash_summary">有効にすると撮影中にフラッシュを使う事ができます (撮影中である事を相手に伝えます)</string>
-    
+
     <string name="preference_category_online">その他の内容</string>
     <string name="preference_online_help">オンラインヘルプ</string>
     <string name="preference_donate">サポートのために寄付をする</string>
@@ -225,7 +225,7 @@
     <string name="about_available">利用可能</string>
     <string name="about_not_available">利用不可</string>
     <string name="about_copy_to_clipboard">クリップボードにコピーする</string>
-    
+
     <string name="take_photo">写真を撮影する</string>
     <string name="gallery">ギャラリーを開く</string>
     <string name="exposure">露出を設定する</string>
@@ -234,7 +234,7 @@
     <string name="flash_mode">フラッシュ切替</string>
     <string name="trash">さっきの写真を削除する</string>
     <string name="share">この写真を共有する</string>
-    
+
     <string name="parent_folder">親フォルダ</string>
     <string name="new_folder">新規フォルダを作る</string>
     <string name="cant_write_folder">このフォルダは使えません</string>
@@ -245,7 +245,7 @@
 
     <string name="saf_select_save_location">保存先を選択する</string>
     <string name="saf_cancelled">ストレージへのアクセスがキャンセルされました</string>
-    
+
     <!-- the permission names such as Microphone should match what Android calls them in the App permission settings -->
     <string name="permission_record_audio_not_available">マイクの使用が許可されていません</string>
     <string name="permission_location_not_available">位置情報の使用が許可されていません</string>

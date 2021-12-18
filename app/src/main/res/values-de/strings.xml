@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Open Camera</string> <!-- shouldn't be translated -->
+    <string name="app_name">Open Camera Studio</string> <!-- shouldn't be translated -->
     <string name="action_settings">Einstellungen</string>
     <string name="action_popup">Popup-Einstellungen</string>
     <string name="intro_text">Zum Fokussieren das Display berühren und den blauen Button drücken um Fotos zu machen. Mehr Hilfe erhalten Sie über Einstellungen-&gt;Online-Hilfe. Open Camera ist vollkommen frei. Wenn Sie diese App mögen, wäre es schön, wenn Sie meine Spenden-App kaufen :) (Link hierzu in den Einstellungen oder der Online-Hilfe)\n\nDatenschutz: Der Standortzugriff wird für das Geotagging gebraucht, was jedoch standardmäßig deaktiviert ist. Wenn aktiviert, wird Ihr Standort lediglich in den Aufnahmen gespeichert.</string>
@@ -9,7 +9,7 @@
 
     <string name="on">Ein</string> <!-- whether a setting is turned on, e.g., "Auto-stabilise: On" -->
     <string name="off">Aus</string> <!-- whether a setting is turned off, e.g., "Auto-stabilise: Off" -->
-    
+
     <string name="choose_save_location">Speicherort auswählen:</string>
     <string name="clear_folder_history">Ordnerhistorie löschen</string>
     <string name="clear_folder_history_question">Ordnerhistorie löschen?</string>
@@ -69,10 +69,10 @@
     <string name="free_memory">Frei</string>
     <string name="screen_lock_message_1">[GESPERRT:</string>
     <string name="screen_lock_message_2">Zum Entsperren wischen]</string>
-    
+
     <string name="failed_to_stamp">Fehler beim Stempeln des Fotos</string>
     <string name="metres_abbreviation">m</string> <!-- symbol short for metres -->
-    
+
     <string name="preference_category_camera_effects">Kameraeffekte</string>
     <string name="preference_auto_stabilise">Bildlagekorrektur</string>
     <string name="preference_auto_stabilise_summary">Die Aufnahme wird automatisch waagerecht ausgerichtet (nur bei Fotos, Aufnahme dauert länger und kann bei kleinem Gerätespeicher fehlschlagen)</string>
@@ -224,7 +224,7 @@
     <string name="preference_record_audio_channels_summary">Mono- oder Stereo-Aufnahme (Stereo wird nur von einigen Geräten unterstützt)</string>
     <string name="preference_video_flash">Blitzlicht während der Videoaufnahme</string>
     <string name="preference_video_flash_summary">Wenn aktiviert, blinkt der Blitz während der Videoaufnahme.</string>
-    
+
     <string name="preference_category_online">Verschiedenes</string>
     <string name="preference_online_help">Online-Hilfe</string>
     <string name="preference_online_help_summary">Öffne die Open Camera Website in deinem Browser</string>
@@ -241,7 +241,7 @@
     <string name="about_available">verfügbar</string>
     <string name="about_not_available">nicht verfügbar</string>
     <string name="about_copy_to_clipboard">In die Zwischenablage kopieren</string>
-    
+
     <string name="take_photo">Foto aufnehmen</string>
     <string name="gallery">Galerie</string>
     <string name="exposure">Belichtung</string>
@@ -254,7 +254,7 @@
     <string name="switch_to_photo">Umschalten in Kamera Modus</string>
     <string name="trash">Letztes Foto löschen</string>
     <string name="share">Foto teilen</string>
-    
+
     <string name="parent_folder">Übergeordnetes Verzeichnis</string>
     <string name="new_folder">Neuer Ordner</string>
     <string name="cant_write_folder">In diesem Ordner kann nicht gespeichert werden</string>
@@ -465,7 +465,7 @@
     <string name="preference_exif_copyright_summary">Text für den "Copyright"-Eintrag in den Foto-Metadaten (nur JPEG-Format, freilassen, falls nicht verwendet.)</string>
 
     <string name="processing">Bearbeitung…</string>
-	
+
     <string name="preference_raw_no">Nur JPEG</string>
     <string name="preference_raw_yes">JPEG und DNG (RAW)</string>
     <string name="preference_raw_only">Nur DNG (RAW)</string>
@@ -483,7 +483,7 @@
     <string name="preference_video_capture_rate_normal">Normal</string>
     <string name="slow_motion_disabled">Zeitlupe aus</string>
     <string name="slow_motion_enabled">Zeitlupe ein</string>
-	
+
     <string name="flash_off">Ohne Blitz</string>
     <string name="flash_auto">Automatischer Blitz</string>
     <string name="flash_on">Mit Blitz</string>
