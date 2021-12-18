@@ -67,7 +67,7 @@ class StudioServer(val mainActivity: MainActivity, val port : Int) : NanoHTTPD(p
 
         val resArray = JSONArray()
 
-        storageDir.listFiles().forEach { file ->
+        storageDir.listFiles()?.forEach { file ->
             val obj = JSONObject()
             obj.put("name", file.name)
             obj.put("size", file.length())
